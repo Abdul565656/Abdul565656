@@ -1,4 +1,4 @@
-![logo](https://github.com/Abdul565656/Abdul565656/blob/main/bBack%20and%20Yellow%20%20Personal%20Trainer%20Linkedin%20Banner.png)
+![logo](https://github.com/Abdul565656/Abdul565656/blob/main/bBack%20and%20Yellow%20%20Personal%20Trainer%20Linkedin%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Abdullah Kashif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
